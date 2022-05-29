@@ -1,7 +1,7 @@
 # Moodle
 Link para descaragar Moodle configurado
 # aqui se descarga el moodle
-https://drive.google.com/file/d/11E6KDeHNK6yubgccD_QELNxisyMi9shS/view?usp=sharing
+https://drive.google.com/file/d/1DCn2dx7GbDDYHAgkBlFC-E8i6Kn33kfj/view?usp=sharing
 
 # debemos agregar los permisos a la carperta con lo siguientes comandos antes de ejecutar docker compose.
 sudo chown -R 1001:1001 ./mariadb-persistence
